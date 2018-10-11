@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1539259669594.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "99F3AEDC",
+    "lastKnownWriteTime" : 1539037411,
+    "last_content_update" : 1539259669594,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "3662C4B8",
+        "caption" : "data_gender_participation",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=data_gender_participation&cache_key=3662C4B8",
+        "displayedObservations" : 2,
+        "environment" : "",
+        "object" : "data_gender_participation",
+        "preview" : 0,
+        "totalObservations" : 2,
+        "variables" : 2
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
